@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "560448185865",
+    "firebase_url": "https://lastri-88-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "lastri-88",
+    "storage_bucket": "lastri-88.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:560448185865:android:e08ec9445cc62d74b0bad8",
+        "android_client_info": {
+          "package_name": "com.example.lastrisocialproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaXC4CyAiAIEsniB_SchU51t2GPzLYUQI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
